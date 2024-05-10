@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @easycodesnipper
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning AI
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning AI.
 - 💞️ I’m looking to collaborate on software architecture & design.
 - 📫 How to reach me chen.dylan.chen@outlook.com
 
